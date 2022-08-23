@@ -1,0 +1,20 @@
+.nav_main {
+  display: flex;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  align-items: center;
+  min-height: 100px;
+}
+.nav_img {
+  height: 5%;
+  width: 5%;
+  padding-left: 10px;
+}
+.nav_text {
+  padding-left: 10px;
+  margin-right: auto;
+  color: white;
+}
+.proj_title {
+  color: white;
+  padding-right: 10px;
+}
